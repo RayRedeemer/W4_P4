@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W4_P4</string>
+    <string name="East">East_the_Pacific</string>
+    <string name="West">West_the_Atlantic</string>
+    <string name="North">North_the_Arctic</string>
+    <string name="South">South_the_Antarctic</string>
+    <string name="Home">Home_World_Island</string>
+</resources>
